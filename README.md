@@ -12,9 +12,8 @@
   <a href="https://ars062.github.io/arsportfolio.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF8906?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   <a href="mailto:arsiddique10762@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://calendly.com/ars062/30min" target="_blank"><img src="https://img.shields.io/badge/Book%20a%201:1%20Call-006BFF?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly" /></a>
+  <a href="https://github.com/Ars062" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
-
-<img src="https://komarev.com/ghpvc/?username=Ars062&label=Profile%20views&color=ff8906&style=for-the-badge" alt="Profile views" />
 
 </div>
 
@@ -77,14 +76,6 @@ AI Engineer with hands-on experience in **Machine Learning**, **Generative AI**,
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ars062&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ars062&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" width="100%" />
-
-<br/>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ars062/Ars062/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ars062/Ars062/output/github-contribution-grid-snake.svg" />
@@ -125,17 +116,9 @@ AI Engineer with hands-on experience in **Machine Learning**, **Generative AI**,
 
 ---
 
-## 🤝 Let's Connect
+---
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/ars062/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://ars062.github.io/arsportfolio.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF8906?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:arsiddique10762@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://calendly.com/ars062/30min" target="_blank"><img src="https://img.shields.io/badge/Calendly-006BFF?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly" /></a>
-<a href="https://github.com/Ars062" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=120&section=footer" alt="footer" width="100%" />
 
