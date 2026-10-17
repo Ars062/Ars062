@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=190&section=header&text=Abdur%20Rahaman%20Siddique&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20GenAI%20%26%20LLMs&descAlignY=56&descSize=17" alt="header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,20&height=190&section=header&text=Abdur%20Rahaman%20Siddique&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%7C%20Computer%20Vision%20%7C%20GenAI%20%2B%20LLMs&descAlignY=56&descSize=17" alt="header" width="100%" />
 
 <a href="https://github.com/Ars062">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF8906&center=true&vCenter=true&width=700&lines=AI+Engineer+%7C+Computer+Vision+Engineer;Generative+AI+%26+LLM+Engineer;Data+Scientist+%26+ML+Engineer;Building+production+multimodal+AI+systems" alt="Typing SVG" />
@@ -14,7 +14,7 @@
   <a href="https://calendly.com/ars062/30min" target="_blank"><img src="https://img.shields.io/badge/Book%20a%201:1%20Call-006BFF?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=Ars062&label=Profile%20views&color=ff8906&style=flat" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=Ars062&label=Profile%20views&color=ff8906&style=for-the-badge" alt="Profile views" />
 
 </div>
 
