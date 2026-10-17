@@ -46,6 +46,7 @@ AI Engineer with hands-on experience in **Machine Learning**, **Generative AI**,
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/RAG-6E4AFF?style=for-the-badge&logo=databricks&logoColor=white" alt="RAG" />
   <img src="https://img.shields.io/badge/LLMs%20%26%20Agents-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs and Agents" />
+  <img src="https://img.shields.io/badge/MLOps-1E88E5?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLOps" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn" />
